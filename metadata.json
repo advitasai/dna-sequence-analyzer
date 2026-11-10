@@ -1,0 +1,6 @@
+{
+  "name": "DNA Sequence Analyzer",
+  "description": "An interactive biotechnology sequence analyzer for DNA validation, GC content, reverse complement, mRNA transcription, genetic code translation, and motif detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
